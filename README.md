@@ -11,9 +11,9 @@
 
 ### Решение 1
 
-- [haproxy.cfg](./blob/main/haproxy2.cfg)
+- [haproxy.cfg](https://github.com/sGolubn/8-04-hw//blob/main/haproxy2.cfg)
 
-![изображение](./blob/main/1.jpg)
+![изображение](https://github.com/sGolubn/8-04-hw/blob/main/1.jpg) 
 
 
 ---
@@ -28,9 +28,9 @@
 
 ### Решение 2
 
-- [haproxy2.cfg](./blob/main/haproxy.cfg)
+- [haproxy2.cfg](https://github.com/sGolubn/8-04-hw//blob/main/haproxy.cfg)
 
-![изображение](./blob/main/2.jpg)
+![изображение](https://github.com/sGolubn/8-04-hw//blob/main/2.jpg)
 
 
 ---
